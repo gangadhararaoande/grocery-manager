@@ -27,16 +27,13 @@ script.js: The JavaScript file handling the dynamic functionality of the Grocery
 <div align="center">
  <p>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=gangadhararaoande%2Fgrocery-manager&countColor=%23263759&style=flat
-)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgangadhararaoande%2Fgrocery-manager.git&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgangadhararaoande%2Fgrocery-manager.git)
+
 ![GitHub forks](https://img.shields.io/github/forks/gangadhararaoande/grocery-manager)
 ![GitHub Repo stars](https://img.shields.io/github/stars/gangadhararaoande/grocery-manager)
 ![GitHub contributors](https://img.shields.io/github/contributors/gangadhararaoande/grocery-manager)
-![GitHub last commit](https://img.shields.io/github/last-commit/gangadhararaoande/grocery-manager)
   
-![GitHub repo size](https://img.shields.io/github/repo-size/gangadhararaoande/grocery-manager)
-
-![Github](https://img.shields.io/github/license/gangadhararaoande/grocery-manager)
+<a href="https://github.com/gangadhararaoande/grocery-manager"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gangadhararaoande/grocery-manager?style=flat-square"></a>
  </p>
 </div>
 
